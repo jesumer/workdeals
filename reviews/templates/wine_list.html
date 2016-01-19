@@ -1,0 +1,15 @@
+<h2>Latest wines</h2>
+
+{% if wine_list %}
+<div>
+    {% for wine in wine_list %}
+    <div>
+        <h4>
+        {{ wine.name }}
+        </a></h4>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<p>No wines are available.</p>
+{% endif %}
