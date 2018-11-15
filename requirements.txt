@@ -3,7 +3,7 @@ django-bootstrap3==6.2.2
 django-extensions==1.6.1
 graphviz==0.4.8
 nose==1.3.7
-numpy==1.10.4
+numpy==1.15.4
 pydot==1.0.2
 pyparsing==1.5.7
 scikits.crab==0.1
