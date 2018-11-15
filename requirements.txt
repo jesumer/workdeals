@@ -9,4 +9,4 @@ pyparsing==1.5.7
 scikits.crab==0.1
 scikits.learn==0.8.1
 six==1.10.0
-wheel==0.24.0
+wheel==0.32.2
