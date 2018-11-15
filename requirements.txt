@@ -1,4 +1,4 @@
-Django==1.9
+Django==1.11.16
 django-bootstrap3==6.2.2
 django-extensions==1.6.1
 graphviz==0.4.8
